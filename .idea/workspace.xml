@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9f068407-313f-4eb2-8f06-2e4518e0c2d8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/.vs/film-comments-service/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/../BackendDotnet/.vs/film-comments-service/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/.vs/film-comments-service/config/applicationhost.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/.vs/film-comments-service/project-colors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/.vs/film-comments-service/v17/.futdcache.v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/.vs/film-comments-service/v17/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/.vs/film-comments-service/xs/UserPrefs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/.vs/film-comments-service/xs/project-cache/FilmComments.Core-Debug.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/.vs/film-comments-service/xs/project-cache/FilmComments.DB-Debug.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/.vs/film-comments-service/xs/project-cache/FilmComments.RestAPIs-Debug.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/film-comments-service.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.Core/BL/CommentService.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.Core/BL/IStorageService.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.Core/BL/Impl/InMemoryStorageService.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.Core/Exceptions/CommentBodyTooShortException.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.Core/Exceptions/CommentNotFoundException.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.Core/Exceptions/CommentNotRelatedToMovieException.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.Core/Exceptions/CommentNotRelatedToUserException.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.Core/FilmComments.Core.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.Core/Model/Comment.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.Core/bin/Debug/net5.0/FilmComments.Core.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.Core/bin/Debug/net5.0/FilmComments.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.Core/bin/Debug/net5.0/FilmComments.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.Core/bin/Debug/net5.0/FilmComments.Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.Core/bin/Debug/net5.0/FilmComments.Core.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.Core/bin/Debug/net5.0/ref/FilmComments.Core.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.Core/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.Core/obj/Debug/net5.0/FilmComments.Core.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.Core/obj/Debug/net5.0/FilmComments.Core.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.Core/obj/Debug/net5.0/FilmComments.Core.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.Core/obj/Debug/net5.0/FilmComments.Core.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.Core/obj/Debug/net5.0/FilmComments.Core.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.Core/obj/Debug/net5.0/FilmComments.Core.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.Core/obj/Debug/net5.0/FilmComments.Core.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.Core/obj/Debug/net5.0/FilmComments.Core.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.Core/obj/Debug/net5.0/FilmComments.Core.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.Core/obj/Debug/net5.0/FilmComments.Core.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.Core/obj/Debug/net5.0/FilmComments.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.Core/obj/Debug/net5.0/FilmComments.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.Core/obj/Debug/net5.0/FilmComments.Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.Core/obj/Debug/net5.0/FilmComments.Core.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.Core/obj/Debug/net5.0/ref/FilmComments.Core.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.Core/obj/FilmComments.Core.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.Core/obj/FilmComments.Core.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.Core/obj/FilmComments.Core.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.Core/obj/Release/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.Core/obj/Release/net5.0/FilmComments.Core.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.Core/obj/Release/net5.0/FilmComments.Core.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.Core/obj/Release/net5.0/FilmComments.Core.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.Core/obj/Release/net5.0/FilmComments.Core.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.Core/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.Core/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.DB/BL/DbService.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.DB/BL/MySqlStorageService.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.DB/DbContextManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.DB/FilmComments.DB.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.DB/Mappers/CommentEntityMapper.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.DB/Migrations/20211226112804_Creazione_Tabella.Designer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.DB/Migrations/20211226112804_Creazione_Tabella.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.DB/Migrations/DbContextManagerModelSnapshot.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.DB/Model/CommentEntity.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.DB/bin/Debug/net5.0/FilmComments.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.DB/bin/Debug/net5.0/FilmComments.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.DB/bin/Debug/net5.0/FilmComments.Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.DB/bin/Debug/net5.0/FilmComments.Core.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.DB/bin/Debug/net5.0/FilmComments.DB.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.DB/bin/Debug/net5.0/FilmComments.DB.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.DB/bin/Debug/net5.0/FilmComments.DB.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.DB/bin/Debug/net5.0/FilmComments.DB.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.DB/bin/Debug/net5.0/FilmComments.DB.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.DB/bin/Debug/net5.0/FilmComments.DB.runtimeconfig.dev.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.DB/bin/Debug/net5.0/FilmComments.DB.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.DB/bin/Debug/net5.0/ref/FilmComments.DB.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.DB/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.DB/obj/Debug/net5.0/FilmComments.DB.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.DB/obj/Debug/net5.0/FilmComments.DB.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.DB/obj/Debug/net5.0/FilmComments.DB.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.DB/obj/Debug/net5.0/FilmComments.DB.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.DB/obj/Debug/net5.0/FilmComments.DB.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.DB/obj/Debug/net5.0/FilmComments.DB.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.DB/obj/Debug/net5.0/FilmComments.DB.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.DB/obj/Debug/net5.0/FilmComments.DB.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.DB/obj/Debug/net5.0/FilmComments.DB.csproj.CopyComplete" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.DB/obj/Debug/net5.0/FilmComments.DB.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.DB/obj/Debug/net5.0/FilmComments.DB.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.DB/obj/Debug/net5.0/FilmComments.DB.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.DB/obj/Debug/net5.0/FilmComments.DB.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.DB/obj/Debug/net5.0/FilmComments.DB.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.DB/obj/Debug/net5.0/FilmComments.DB.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.DB/obj/Debug/net5.0/FilmComments.DB.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.DB/obj/Debug/net5.0/FilmComments.DB.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.DB/obj/Debug/net5.0/FilmComments.DB.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.DB/obj/Debug/net5.0/FilmComments.DB.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.DB/obj/Debug/net5.0/ref/FilmComments.DB.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.DB/obj/FilmComments.DB.csproj.EntityFrameworkCore.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.DB/obj/FilmComments.DB.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.DB/obj/FilmComments.DB.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.DB/obj/FilmComments.DB.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.DB/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.DB/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/Controllers/CommentController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/FilmComments.RestAPIs.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/Model/CommentToSave.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/Model/ErrorResponse.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/Properties/launchSettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/Startup.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/appsettings.Development.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/appsettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/bin/Debug/net5.0/FilmComments.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/bin/Debug/net5.0/FilmComments.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/bin/Debug/net5.0/FilmComments.Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/bin/Debug/net5.0/FilmComments.Core.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/bin/Debug/net5.0/FilmComments.DB.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/bin/Debug/net5.0/FilmComments.DB.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/bin/Debug/net5.0/FilmComments.DB.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/bin/Debug/net5.0/FilmComments.DB.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/bin/Debug/net5.0/FilmComments.RestAPIs.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/bin/Debug/net5.0/FilmComments.RestAPIs.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/bin/Debug/net5.0/FilmComments.RestAPIs.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/bin/Debug/net5.0/FilmComments.RestAPIs.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/bin/Debug/net5.0/FilmComments.RestAPIs.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/bin/Debug/net5.0/FilmComments.RestAPIs.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/bin/Debug/net5.0/FilmComments.RestAPIs.runtimeconfig.dev.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/bin/Debug/net5.0/FilmComments.RestAPIs.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/bin/Debug/net5.0/Microsoft.OpenApi.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/bin/Debug/net5.0/MySqlConnector.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/bin/Debug/net5.0/Pomelo.EntityFrameworkCore.MySql.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/bin/Debug/net5.0/appsettings.Development.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/bin/Debug/net5.0/appsettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/bin/Debug/net5.0/ref/FilmComments.RestAPIs.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/obj/Debug/net5.0/FilmComments.RestAPIs.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/obj/Debug/net5.0/FilmComments.RestAPIs.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/obj/Debug/net5.0/FilmComments.RestAPIs.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/obj/Debug/net5.0/FilmComments.RestAPIs.MvcApplicationPartsAssemblyInfo.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/obj/Debug/net5.0/FilmComments.RestAPIs.MvcApplicationPartsAssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/obj/Debug/net5.0/FilmComments.RestAPIs.RazorTargetAssemblyInfo.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/obj/Debug/net5.0/FilmComments.RestAPIs.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/obj/Debug/net5.0/FilmComments.RestAPIs.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/obj/Debug/net5.0/FilmComments.RestAPIs.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/obj/Debug/net5.0/FilmComments.RestAPIs.csproj.CopyComplete" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/obj/Debug/net5.0/FilmComments.RestAPIs.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/obj/Debug/net5.0/FilmComments.RestAPIs.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/obj/Debug/net5.0/FilmComments.RestAPIs.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/obj/Debug/net5.0/FilmComments.RestAPIs.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/obj/Debug/net5.0/FilmComments.RestAPIs.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/obj/Debug/net5.0/FilmComments.RestAPIs.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/obj/Debug/net5.0/FilmComments.RestAPIs.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/obj/Debug/net5.0/FilmComments.RestAPIs.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/obj/Debug/net5.0/FilmComments.RestAPIs.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/obj/Debug/net5.0/FilmComments.RestAPIs.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/obj/Debug/net5.0/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/obj/Debug/net5.0/ref/FilmComments.RestAPIs.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/obj/Debug/net5.0/staticwebassets/FilmComments.RestAPIs.StaticWebAssets.Manifest.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/obj/FilmComments.RestAPIs.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/obj/FilmComments.RestAPIs.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/obj/FilmComments.RestAPIs.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BackendDotnet/src/FilmComments.RestAPIs/obj/project.nuget.cache" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="EsercizioUsersDatabase" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="JPA Inspector" value="true" />
+        <entry key="JPA Palette" value="true" />
+        <entry key="JPA Structure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="JPA Inspector" value="false" />
+        <entry key="JPA Palette" value="false" />
+        <entry key="JPA Structure" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectId" id="20ov7z3uNmh9W588Ejvj9oFDmDS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="EsercizioUsersDatabaseApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="EsercizioUsersDatabase.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.TeNetValue.EsercizioUsersConDatabase.EsercizioUsersDatabase.EsercizioUsersDatabaseApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f068407-313f-4eb2-8f06-2e4518e0c2d8" name="Changes" comment="" />
+      <created>1636723593532</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636723593532</updated>
+      <workItem from="1636723595485" duration="104000" />
+      <workItem from="1636723776595" duration="1658000" />
+      <workItem from="1636790582660" duration="13576000" />
+      <workItem from="1637685527399" duration="692000" />
+      <workItem from="1641394192436" duration="4918000" />
+      <workItem from="1641461714012" duration="9710000" />
+      <workItem from="1643815765935" duration="122000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
